@@ -1,2 +1,2 @@
 # Crypto-arbitrage-trading-bot
-A Python-based cryptocurrency arbitrage trading bot that identifies and executes profitable trades across multiple exchanges. Features real-time price monitoring via WebSocket connections, REST API integration, and detailed trade analytics.
+A Python simulation of cryptocurrency arbitrage trading strategies. Demonstrates how to profit from price differences across multiple exchanges with realistic market conditions, trading fees, and risk management.
