@@ -1,4 +1,4 @@
-# 🤖 Crypto Arbitrage Trading Bot
+# Crypto Arbitrage Trading Bot
 
 A simulated cryptocurrency arbitrage trading bot for learning and testing trading strategies — no real money or API connections involved.
 
@@ -63,21 +63,21 @@ bot.run(num_iterations=20, min_profit=1.0)
 ## Sample Output
 
 ```
-✅ ARBITRAGE TRADE EXECUTED - 2024-01-15 10:23:45
+ARBITRAGE TRADE EXECUTED - 2024-01-15 10:23:45
 Coin Traded:        ETH
 Quantity:           0.398123
 
-📉 BUY ORDER:
+BUY ORDER:
   Exchange:         Binance
   Price:            $2,489.50
   Fee:              $2.49
 
-📈 SELL ORDER:
+SELL ORDER:
   Exchange:         Coinbase
   Price:            $2,541.30
   Fee:              $12.71
 
-💰 RESULTS:
+RESULTS:
   Total Fees:       $6.03
   Net Profit/Loss:  $19.42 (+1.93%)
   Capital After:    $10,019.42
